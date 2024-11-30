@@ -1,2 +1,2 @@
-# CSS
+
 # kubernetes-sample-app
